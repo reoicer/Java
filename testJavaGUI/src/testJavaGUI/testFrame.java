@@ -34,8 +34,6 @@ public class testFrame extends JFrame {
 
         @Override
         public void actionPerformed(ActionEvent e) {
-            // TODO Auto-generated method stub
-            // throw new UnsupportedOperationException("Unimplemented method 'actionPerformed'");
             System.out.println("按钮被点击了");
         }
     }
